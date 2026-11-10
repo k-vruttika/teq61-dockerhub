@@ -1,2 +1,2 @@
 FROM alpine:latest
-CMD ["echo", "Teq 61 - Docker Hub workflow by Vruttika"]
+CMD ["echo", "Teq 61 - updated by Vruttika"]
